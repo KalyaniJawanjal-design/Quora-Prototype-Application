@@ -23,13 +23,10 @@ The development of the project consists of multiple phases wherein, we started w
    |--------------------------------|---------------------------------------|
    | **Laxmikant Bhaskar Pandhare** |   laxmikantbhaskar.pandhare@sjsu.edu  |
    | **Tosha Kamath**               |      toshasudhir.kamath@sjsu.edu      |
-   | **Meghna Tiwari**              |      meghna.tiwari@sjsu.edu           | 
-   | **Rohankumar Shah**            |      rohakumar.shah@sjsu.edu          |
-   | **Vaibhav Gupta**              |       vaibhav.gupta@sjsu.edu          |
    
 
 ## High Level Design Diagram
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/High%20Level%20Design.png)
+![alt text](https://github.com/KalyaniJawanjal-design/Quora-Prototype-Application/blob/master/images/High%20Level%20Design.png)
 
 ## Schema
 ![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Schema.png)
