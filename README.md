@@ -53,7 +53,7 @@ A glimpse of the application
 
 #### Signup by user.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Signup.png)
+![alt text](https://github.com/KalyaniJawanjal-design/Quora-Prototype-Application/blob/master/images/Signup.png)
 
 #### Login by user.
 
