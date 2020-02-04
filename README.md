@@ -57,7 +57,7 @@ A glimpse of the application
 
 #### Login by user.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Login%20in%20image.png)
+![alt text](https://github.com/KalyaniJawanjal-design/Quora-Prototype-Application/blob/master/images/Login%20in%20image.png)
 
 #### Dashboard.
 
